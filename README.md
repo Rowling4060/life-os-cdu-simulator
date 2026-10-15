@@ -5,6 +5,9 @@ An interactive engineering simulation and digital-twin-style dashboard for explo
 **Life OS v2.0 数据中心液冷 CDU 数字孪生与仿真系统**<br>
 面向液冷数据中心的交互式工程仿真仪表板，用于联合观察冷却液分配单元（CDU）、冷水机组、冷却塔、供配电链路与室外气象条件。通过可调参数和实时天气输入，快速分析负载、流量、功耗与能效指标之间的关系。
 
+<img width="1615" height="900" alt="image" src="https://github.com/user-attachments/assets/24700026-4bbd-4a64-a03a-b0bd2e5636f1" />
+
+
 > **Model scope / 模型范围:** This is a transparent, parameter-driven simulation built from simplified engineering models. It is not connected to facility controls, telemetry, or equipment vendor performance maps, and is not a substitute for commissioning, equipment selection, or a safety analysis.<br>
 > 本项目使用可读、可调的简化工程模型进行情景分析；它不接入现场控制系统、运行遥测或厂商性能曲线，不能替代设备选型、调试验证或安全分析。
 
